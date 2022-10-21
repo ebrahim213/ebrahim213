@@ -5,7 +5,7 @@
 
 ### Hi there 馃憢 I'm [Ibrahim Mohammed](https://.com.np)
 
-<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Ebrahim Mohammed - software engineer, content creator and community organizer alongside a cartoon illustration of 
+<img src="https://raw.githubusercontent.com/ebrahim213/M0nica/master/gh-header-image-cropped.png" alt="banner that says Ebrahim Mohammed - software engineer, content creator and community organizer alongside a cartoon illustration of 
 Ebrahim"> 
 Software Engineer 
 
@@ -30,13 +30,13 @@ I have excellent design & coding skills, as well as an ability to convert requir
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" alt="jQuery" width="50">](https://jquery.com/)
 
  <a href="https://github.com/ebrahim213">
-<img src="https://img.shields.io/badge/ubuntu-f7873b.svg?style=for-the-badge&logo=ubuntu&labelColor=ffffff&logoColor=f7873b" alt="ubuntu">
+<img src="https://img.shields.io/badge/ubuntu-f7873b.svg?style=for-the badge&logo=ubuntu&labelColor=ffffff&logoColor=f7873b" alt="ubuntu">
 </a>
 <a href="https://raw.githubusercontent.com/github/explore"><img src="https://img.shields.io/badge/arch-0066cc.svg?style=for-the-badge&logo=arch-linux&logoColor=0066cc&labelColor=ffffff" alt="arch-linux"></a>
 
 
-<a href="https://raw.githubusercontent.com/github/explore"><img src="https://img.shields.io/badge/arch-0066cc.svg?style=for-the-badge&logo=python&logoColor=0066cc&labelColor=ffffff" alt="python"></a>
-
+<a href="https://raw.githubusercontent.com/github/explore"><img src="https://img.shields.io/badge/python-0066cc.svg?style=for-the-badge&logo=python&logoColor=0066cc&labelColor=ffffff" alt="python"></a>
+<a href="https://raw.githubusercontent.com/github/explore"><img src="https://img.shields.io/badge/C#-0066cc.svg?style=for-the-badge&logo=C#&logoColor=0066cc&labelColor=ffffff" alt="C-sharp"></a>
 <br>
 
 ### Tools 馃洜锔�
@@ -44,7 +44,8 @@ I have excellent design & coding skills, as well as an ability to convert requir
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="50">](https://www.mysql.com/) 
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase" width="50">](https://firebase.google.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="50">](https://git-scm.com/) 
 [<img src="https://logonoid.com/images/phpstorm-logo.png" alt="Phpstorm" width="50">](https://www.jetbrains.com/phpstorm/) 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="50">](https://code.visualstudio.com/) [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="50">](https://ubuntu.com/)    [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" alt="Redis" width="50">](https://redis.io/) | Varnish Cache | many more...
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="50">](https://code.visualstudio.com/) [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="50">](https://ubuntu.com/) 
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" alt="Redis" width="50">](https://redis.io/) | Varnish Cache | many more...
 |---|---|---|---|---|---|---|---|---|
 
 ### Github Stats
