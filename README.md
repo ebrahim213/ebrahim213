@@ -21,7 +21,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
         
 ### Programming Languages 馃寪
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python /python.png" alt="python" width="50">](https://python.org/) 
+
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" width="50">](https://php.net/) 
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/c#.png" alt="C#" width="50">](https://c-sharpcorner.com/)  
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="50">](https://getbootstrap.com/) 
@@ -34,7 +34,9 @@ I have excellent design & coding skills, as well as an ability to convert requir
 <a href="https://raw.githubusercontent.com/github/explore"><img src="https://img.shields.io/badge/arch-0066cc.svg?style=for-the-badge&logo=arch-linux&logoColor=0066cc&labelColor=ffffff" alt="arch-linux"></a>
 
 
-<a href="https://raw.githubusercontent.com/github/explore"><img src="https://img.shields.io/badge/python-0066cc.svg?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=ffff00" alt="python"></a>
+<a href="https://raw.githubusercontent.com/github/explore"><img src="https://img.shields.io/badge/python-ffff00.svg?style=for-the-badge&logo=python&logoColor=ffff00&labelColor=ffffff" alt="python"></a>
+
+
 <a href="https://raw.githubusercontent.com/github/explore"><img src="https://img.shields.io/badge/C#-0066cc.svg?style=for-the-badge&logo=C-sharp&logoColor=0066cc&labelColor=ffffff" alt="C-sharp"></a>
 <br>
 
