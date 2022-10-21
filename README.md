@@ -4,6 +4,8 @@
 </p>
 
 ### Hi there 馃憢 I'm [Ibrahim Mohammed](https://.com.np)
+
+<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Ebrahim Mohammed - software engineer, content creator and community organizer alongside a cartoon illustration of 
 > Software Engineer 
 
 <img src="https://komarev.com/ghpvc/?username=ebrahim213" alt="ebrahim213" />
