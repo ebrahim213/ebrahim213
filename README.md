@@ -17,7 +17,7 @@ I am Mid-level Web developer able to build a Web presence from the ground up - f
 I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
 </p>
 </div>
- ## 啶ㄠぎ啶膏啶む 馃檹https://favpng.com/png_view/aspa-ecommerce-c-foreach-loop-while-loop-conditional-png/
+ 
 
         
 ### Programming Languages 馃寪
