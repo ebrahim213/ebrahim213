@@ -34,7 +34,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 <a href="https://raw.githubusercontent.com/github/explore"><img src="https://img.shields.io/badge/arch-0066cc.svg?style=for-the-badge&logo=arch-linux&logoColor=0066cc&labelColor=ffffff" alt="arch-linux"></a>
 
 
-<a href="https://raw.githubusercontent.com/github/explore"><img src="https://img.shields.io/badge/python-ffff00.svg?style=for-the-badge&logo=python&logoColor=ffff00&labelColor=ffffff" alt="python"></a>
+<a href="https://raw.githubusercontent.com/github/explore"><img src="https://img.shields.io/badge/python-ffcc00.svg?style=for-the-badge&logo=python&logoColor=0066cc&labelColor=ffffff" alt="python"></a>
 
 
 <a href="https://raw.githubusercontent.com/github/explore"><img src="https://img.shields.io/badge/C#-0066cc.svg?style=for-the-badge&logo=C-sharp&logoColor=0066cc&labelColor=ffffff" alt="C-sharp"></a>
