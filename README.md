@@ -5,8 +5,7 @@
 
 ### Hi there 馃憢 I'm [Ibrahim Mohammed](https://.com.np)
 
-<img src="https://raw.githubusercontent.com/ebrahim213/ebrahim213/master/gh-header-image-cropped.png" alt="banner that says Ebrahim Mohammed - software engineer, content creator and community organizer alongside a cartoon illustration of 
-Ebrahim"> 
+ 
 Software Engineer 
 
 <img src="https://komarev.com/ghpvc/?username=ebrahim213" alt="ebrahim213" />
@@ -24,7 +23,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 ### Programming Languages 馃寪
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python /python.png" alt="python" width="50">](https://python.org/) 
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" width="50">](https://php.net/) 
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp_Logo.png" alt="C#" width="50">](https://c-sharpcorner.com/)  
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/c#.png" alt="C#" width="50">](https://c-sharpcorner.com/)  
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="50">](https://getbootstrap.com/) 
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="jQuery" width="50">](https://jquery.com/) 
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" alt="jQuery" width="50">](https://jquery.com/)
@@ -35,7 +34,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 <a href="https://raw.githubusercontent.com/github/explore"><img src="https://img.shields.io/badge/arch-0066cc.svg?style=for-the-badge&logo=arch-linux&logoColor=0066cc&labelColor=ffffff" alt="arch-linux"></a>
 
 
-<a href="https://raw.githubusercontent.com/github/explore"><img src="https://img.shields.io/badge/python-0066cc.svg?style=for-the-badge&logo=python&logoColor=0066cc&labelColor=ffff00" alt="python"></a>
+<a href="https://raw.githubusercontent.com/github/explore"><img src="https://img.shields.io/badge/python-0066cc.svg?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=ffff00" alt="python"></a>
 <a href="https://raw.githubusercontent.com/github/explore"><img src="https://img.shields.io/badge/C#-0066cc.svg?style=for-the-badge&logo=C-sharp&logoColor=0066cc&labelColor=ffffff" alt="C-sharp"></a>
 <br>
 
@@ -46,7 +45,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 [<img src="https://logonoid.com/images/phpstorm-logo.png" alt="Phpstorm" width="50">](https://www.jetbrains.com/phpstorm/) 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="50">](https://code.visualstudio.com/) [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="50">](https://ubuntu.com/) 
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" alt="Redis" width="50">](https://redis.io/) | Varnish Cache | many more...
-|---|---|---|---|---|---|---|---|---|
+
 
 ### Github Stats
 
