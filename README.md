@@ -5,7 +5,7 @@
 
 ### Hi there 馃憢 I'm [Ibrahim Mohammed](https://.com.np)
 
-<img src="https://raw.githubusercontent.com/ebrahim213/M0nica/master/gh-header-image-cropped.png" alt="banner that says Ebrahim Mohammed - software engineer, content creator and community organizer alongside a cartoon illustration of 
+<img src="https://raw.githubusercontent.com/ebrahim213/ebrahim213/master/gh-header-image-cropped.png" alt="banner that says Ebrahim Mohammed - software engineer, content creator and community organizer alongside a cartoon illustration of 
 Ebrahim"> 
 Software Engineer 
 
@@ -18,13 +18,13 @@ I am Mid-level Web developer able to build a Web presence from the ground up - f
 I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
 </p>
 </div>
- ## 啶ㄠぎ啶膏啶む 馃檹
+ ## 啶ㄠぎ啶膏啶む 馃檹https://favpng.com/png_view/aspa-ecommerce-c-foreach-loop-while-loop-conditional-png/
 
         
 ### Programming Languages 馃寪
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python /python-logo.png" alt="python" width="50">](https://python.org/) 
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python /python.png" alt="python" width="50">](https://python.org/) 
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" width="50">](https://php.net/) 
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/C#/hg https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/C#/Csharp_Logo.png" alt="C#" width="50">](https://c-sharpcorner.com/)  
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp_Logo.png" alt="C#" width="50">](https://c-sharpcorner.com/)  
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="50">](https://getbootstrap.com/) 
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="jQuery" width="50">](https://jquery.com/) 
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" alt="jQuery" width="50">](https://jquery.com/)
@@ -35,8 +35,8 @@ I have excellent design & coding skills, as well as an ability to convert requir
 <a href="https://raw.githubusercontent.com/github/explore"><img src="https://img.shields.io/badge/arch-0066cc.svg?style=for-the-badge&logo=arch-linux&logoColor=0066cc&labelColor=ffffff" alt="arch-linux"></a>
 
 
-<a href="https://raw.githubusercontent.com/github/explore"><img src="https://img.shields.io/badge/python-0066cc.svg?style=for-the-badge&logo=python&logoColor=0066cc&labelColor=ffffff" alt="python"></a>
-<a href="https://raw.githubusercontent.com/github/explore"><img src="https://img.shields.io/badge/C#-0066cc.svg?style=for-the-badge&logo=C#&logoColor=0066cc&labelColor=ffffff" alt="C-sharp"></a>
+<a href="https://raw.githubusercontent.com/github/explore"><img src="https://img.shields.io/badge/python-0066cc.svg?style=for-the-badge&logo=python&logoColor=0066cc&labelColor=ffff00" alt="python"></a>
+<a href="https://raw.githubusercontent.com/github/explore"><img src="https://img.shields.io/badge/C#-0066cc.svg?style=for-the-badge&logo=C-sharp&logoColor=0066cc&labelColor=ffffff" alt="C-sharp"></a>
 <br>
 
 ### Tools 馃洜锔�
