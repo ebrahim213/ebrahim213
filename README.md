@@ -6,7 +6,8 @@
 ### Hi there 馃憢 I'm [Ibrahim Mohammed](https://.com.np)
 
 <img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Ebrahim Mohammed - software engineer, content creator and community organizer alongside a cartoon illustration of 
-> Software Engineer 
+Ebrahim"> 
+Software Engineer 
 
 <img src="https://komarev.com/ghpvc/?username=ebrahim213" alt="ebrahim213" />
 
@@ -28,10 +29,13 @@ I have excellent design & coding skills, as well as an ability to convert requir
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="jQuery" width="50">](https://jquery.com/) 
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" alt="jQuery" width="50">](https://jquery.com/)
 
- <a href="https://github.com/priyanshumay">
+ <a href="https://github.com/ebrahim213">
 <img src="https://img.shields.io/badge/ubuntu-f7873b.svg?style=for-the-badge&logo=ubuntu&labelColor=ffffff&logoColor=f7873b" alt="ubuntu">
 </a>
 <a href="https://raw.githubusercontent.com/github/explore"><img src="https://img.shields.io/badge/arch-0066cc.svg?style=for-the-badge&logo=arch-linux&logoColor=0066cc&labelColor=ffffff" alt="arch-linux"></a>
+
+
+<a href="https://raw.githubusercontent.com/github/explore"><img src="https://img.shields.io/badge/arch-0066cc.svg?style=for-the-badge&logo=python&logoColor=0066cc&labelColor=ffffff" alt="python"></a>
 
 <br>
 
